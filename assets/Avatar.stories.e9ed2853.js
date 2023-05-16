@@ -1,0 +1,2 @@
+import{A as t}from"./index.11d37e58.js";import"./index.05369664.js";import"./iframe.9db9e650.js";import"./index.7ad13371.js";import"./jsx-runtime.c8420d97.js";const e={title:"Data display/Avatar",component:t,args:{src:"https://github.com/wellrenato12.png",alt:"Wellington Renato"},argTypes:{src:{coltrol:{type:"text"}}}},l={},p={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,p as WithFallback,c as __namedExportsOrder,e as default};
+//# sourceMappingURL=Avatar.stories.e9ed2853.js.map
